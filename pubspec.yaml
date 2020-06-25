@@ -20,6 +20,7 @@ dependencies:
   http_server: "^0.9.5+1"
   route_hierarchical: 
     git: https://github.com/LiFengShuo10184500518/route.dart.git
+    ref: bbcc28ac541453e5dcd0376737c8078bad524867
   shelf: "^0.6.4+3"
   stack_trace: "^1.6.5"
 dev_dependencies:
